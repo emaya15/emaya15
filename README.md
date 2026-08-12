@@ -50,29 +50,15 @@
 
 ## 🔥 What I Do
 
-✅ **Python Development**  
-Build clean, efficient, and scalable applications using Python.
+✅ **Python & Backend Development** — Build scalable applications and REST APIs.
 
-✅ **Backend Development**  
-Develop reliable backend systems and REST APIs for web applications.
+✅ **Web Development** — Create responsive web applications using Python, HTML, CSS, and JavaScript.
 
-✅ **Web Development**  
-Create responsive and user-friendly applications using HTML, CSS, JavaScript, and Python.
+✅ **Database Development** — Work with MySQL and SQL for database-driven applications.
 
-✅ **Database Management**  
-Work with MySQL databases, SQL queries, and database-driven applications.
+✅ **Software Development** — Write clean code, debug applications, and solve real-world problems.
 
-✅ **API Development**  
-Build and integrate REST APIs to connect applications and services.
-
-✅ **Version Control**  
-Use Git and GitHub for source code management, collaboration, and project development.
-
-✅ **Problem Solving**  
-Write clean, maintainable code and solve real-world programming challenges.
-
-✅ **Continuous Learning**  
-Explore new Python frameworks, backend technologies, APIs, and software development practices.
+✅ **Version Control** — Use Git and GitHub for development and collaboration.
 
 ---
 
@@ -107,22 +93,9 @@ Explore new Python frameworks, backend technologies, APIs, and software developm
 - Debugging, testing, and improving applications to deliver **clean, reliable, and efficient software solutions**.
 - Continuously learning and applying **new Python technologies and software development best practices**.
 
-### Skills & Technologies
+### 🛠️ Skills & Technologies
 
-- **Python**
-- **Django**
-- **Flask**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **MySQL**
-- **SQL**
-- **REST APIs**
-- **Git**
-- **GitHub**
-- **Backend Development**
-- **Web Development**
-
+**Python** • **Django** • **Flask** • **HTML** • **CSS** • **JavaScript** • **MySQL** • **SQL** • **REST APIs** • **Git** • **GitHub**
 ---
 
 ## 🌐 My Portfolio
