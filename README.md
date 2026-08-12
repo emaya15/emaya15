@@ -8,11 +8,9 @@
 ---
 
 ## 👨‍💻 About Me
-
 🔹 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/> **Python Developer** passionate about building clean, efficient, and scalable software solutions.  
 🔹 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/> **Experienced in Python, Web Development, Backend Development, and SQL**.  
 🔹 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/> **Currently working as a Python Developer at Stackly**, contributing to real-world software development projects.  
-🔹 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/> Interested in building **Web Applications, REST APIs, Database-driven Applications, and Backend Systems**.  
 🔹 Passionate about **Problem Solving, Clean Code, Software Development, and Learning New Technologies**.  
 🔹 Currently exploring **Advanced Python, Backend Development, APIs, MySQL, and Modern Web Technologies**.
 ---
